@@ -1,0 +1,501 @@
+Intern_ID,Department,Duration_Weeks,Mentor_Meetings_per_Month,University_Tier,Stipend_USD,Prior_Experience,Project_Complexity,Status
+1001,Sales,12,3,Tier 1,3046,Yes,Low,Extended
+1002,HR,12,4,Tier 2,2362,No,High,Dropped
+1003,Data Science,8,2,Tier 3,3191,Yes,High,Dropped
+1004,HR,12,2,Tier 1,3105,Yes,Low,Extended
+1005,HR,8,1,Tier 3,3819,No,High,Dropped
+1006,Marketing,4,5,Tier 3,2079,No,Medium,Extended
+1007,Data Science,16,4,Tier 3,3390,No,Low,Completed
+1008,Data Science,4,10,Tier 1,2775,No,Medium,Completed
+1009,Data Science,8,2,Tier 3,4107,No,Low,Extended
+1010,HR,16,3,Tier 1,4243,Yes,High,Completed
+1011,Sales,16,7,Tier 3,3355,Yes,High,Completed
+1012,Data Science,12,7,Tier 1,4661,No,High,Completed
+1013,HR,12,4,Tier 3,3993,Yes,Low,Completed
+1014,Marketing,12,5,Tier 2,4564,Yes,Medium,Completed
+1015,Sales,8,5,Tier 3,2855,Yes,Medium,Completed
+1016,Marketing,8,6,Tier 3,2662,No,Low,Completed
+1017,Sales,12,9,Tier 1,1856,Yes,Low,Completed
+1018,HR,12,2,Tier 1,3124,Yes,Medium,Extended
+1019,Engineering,12,5,Tier 3,3821,Yes,Medium,Extended
+1020,Sales,12,3,Tier 2,4590,No,Medium,Extended
+1021,Marketing,4,4,Tier 2,3506,Yes,Medium,Completed
+1022,HR,12,10,Tier 1,3858,Yes,Low,Completed
+1023,Sales,4,6,Tier 2,2369,No,Low,Completed
+1024,Engineering,12,8,Tier 3,2385,No,High,Completed
+1025,Engineering,12,1,Tier 1,3501,Yes,Medium,Dropped
+1026,Data Science,12,10,Tier 3,3701,Yes,High,Completed
+1027,Data Science,8,8,Tier 1,2913,No,Low,Completed
+1028,Marketing,8,7,Tier 1,2783,No,Low,Completed
+1029,Sales,8,1,Tier 1,2119,No,High,Extended
+1030,Sales,12,2,Tier 1,2382,No,Medium,Extended
+1031,Data Science,12,3,Tier 2,2296,No,Medium,Completed
+1032,Sales,8,1,Tier 3,3672,No,Medium,Extended
+1033,Sales,4,9,Tier 3,4925,No,Medium,Completed
+1034,Engineering,12,8,Tier 3,2796,Yes,High,Completed
+1035,Data Science,4,2,Tier 1,2118,No,High,Dropped
+1036,HR,12,9,Tier 2,3334,No,Low,Completed
+1037,Data Science,12,7,Tier 3,1744,Yes,Medium,Completed
+1038,HR,4,9,Tier 2,4395,No,Medium,Completed
+1039,Engineering,4,6,Tier 1,3997,No,Medium,Completed
+1040,Marketing,16,6,Tier 3,2429,Yes,High,Completed
+1041,Sales,8,4,Tier 2,2770,No,Medium,Extended
+1042,Engineering,8,10,Tier 1,2019,Yes,High,Completed
+1043,Sales,12,10,Tier 2,4712,Yes,Medium,Completed
+1044,Marketing,16,2,Tier 3,3909,Yes,Medium,Extended
+1045,Marketing,16,7,Tier 3,1507,Yes,Low,Completed
+1046,Engineering,12,5,Tier 1,4025,No,Medium,Completed
+1047,Marketing,8,6,Tier 1,4923,Yes,Medium,Completed
+1048,HR,4,2,Tier 1,3519,Yes,Low,Completed
+1049,Marketing,12,5,Tier 2,1994,No,High,Extended
+1050,Sales,12,10,Tier 2,3129,Yes,High,Completed
+1051,Sales,12,4,Tier 2,4380,Yes,Medium,Completed
+1052,Sales,16,9,Tier 1,4998,Yes,High,Completed
+1053,Sales,8,6,Tier 3,2562,Yes,Medium,Extended
+1054,HR,12,2,Tier 3,4140,No,Low,Extended
+1055,Data Science,4,1,Tier 2,1686,Yes,Low,Extended
+1056,Engineering,12,5,Tier 2,4301,No,Medium,Completed
+1057,Sales,4,9,Tier 3,3377,No,Low,Completed
+1058,Marketing,8,6,Tier 3,3640,Yes,Low,Completed
+1059,Sales,8,10,Tier 2,1585,Yes,Medium,Completed
+1060,Marketing,12,7,Tier 2,4615,Yes,Medium,Completed
+1061,Marketing,12,5,Tier 3,1636,Yes,Low,Extended
+1062,Sales,12,10,Tier 1,3968,No,High,Completed
+1063,HR,16,6,Tier 2,3621,No,High,Completed
+1064,Marketing,8,5,Tier 3,3136,No,Medium,Extended
+1065,Marketing,8,9,Tier 3,4727,Yes,Medium,Completed
+1066,Sales,12,6,Tier 3,4826,No,High,Extended
+1067,Marketing,8,8,Tier 3,3718,Yes,Low,Completed
+1068,Marketing,16,2,Tier 1,3251,Yes,High,Extended
+1069,Sales,4,9,Tier 3,3717,Yes,High,Completed
+1070,Sales,16,5,Tier 2,3287,Yes,High,Completed
+1071,Engineering,4,7,Tier 1,2371,Yes,High,Completed
+1072,HR,12,10,Tier 3,3869,No,Medium,Completed
+1073,HR,12,1,Tier 1,4003,No,Medium,Extended
+1074,Marketing,16,10,Tier 2,2443,Yes,Low,Completed
+1075,HR,4,5,Tier 3,3126,No,Low,Completed
+1076,Marketing,12,10,Tier 2,4337,Yes,Low,Completed
+1077,Engineering,16,2,Tier 3,4160,Yes,Low,Extended
+1078,Sales,12,6,Tier 3,4726,Yes,High,Completed
+1079,Sales,12,1,Tier 3,4436,No,Medium,Dropped
+1080,Sales,12,3,Tier 3,1848,Yes,Medium,Dropped
+1081,HR,12,5,Tier 3,3176,Yes,Low,Completed
+1082,Engineering,12,4,Tier 1,2696,No,Low,Extended
+1083,HR,12,3,Tier 3,1509,No,High,Dropped
+1084,HR,16,10,Tier 3,4287,No,High,Completed
+1085,Engineering,4,5,Tier 1,4836,Yes,Low,Completed
+1086,Engineering,8,8,Tier 1,2961,Yes,Medium,Completed
+1087,Engineering,16,4,Tier 1,4818,No,Medium,Completed
+1088,Engineering,12,1,Tier 1,2166,Yes,Medium,Dropped
+1089,Sales,12,7,Tier 1,4093,No,Low,Completed
+1090,Data Science,12,8,Tier 1,3022,No,Medium,Completed
+1091,Data Science,8,3,Tier 3,3676,Yes,High,Extended
+1092,Engineering,8,6,Tier 3,2100,Yes,High,Completed
+1093,Data Science,12,2,Tier 2,4152,No,Low,Extended
+1094,Data Science,8,7,Tier 3,1826,No,High,Completed
+1095,Engineering,12,8,Tier 3,2479,No,Low,Completed
+1096,Data Science,4,6,Tier 1,3951,No,Medium,Completed
+1097,HR,16,6,Tier 1,2128,Yes,Medium,Completed
+1098,Marketing,16,5,Tier 3,3129,No,Medium,Extended
+1099,Marketing,12,8,Tier 2,4930,No,High,Completed
+1100,Engineering,12,1,Tier 1,4265,No,Low,Dropped
+1101,Sales,8,10,Tier 3,4588,Yes,Medium,Completed
+1102,Engineering,12,4,Tier 3,1773,Yes,Low,Extended
+1103,Sales,12,4,Tier 2,2184,No,Medium,Extended
+1104,Marketing,8,3,Tier 2,1615,Yes,High,Extended
+1105,Engineering,16,3,Tier 1,2360,Yes,High,Extended
+1106,HR,12,4,Tier 2,3503,Yes,Low,Completed
+1107,Data Science,16,1,Tier 3,2192,No,High,Dropped
+1108,Sales,12,2,Tier 3,4662,No,High,Dropped
+1109,Data Science,12,9,Tier 2,2605,Yes,Low,Completed
+1110,Data Science,12,10,Tier 2,3871,No,Medium,Completed
+1111,Engineering,16,2,Tier 2,4508,No,High,Dropped
+1112,Data Science,12,5,Tier 2,3661,Yes,Low,Completed
+1113,HR,4,9,Tier 1,3292,Yes,High,Completed
+1114,Data Science,4,9,Tier 2,4629,No,High,Completed
+1115,Engineering,8,8,Tier 1,1653,Yes,High,Completed
+1116,HR,12,1,Tier 3,3400,No,High,Dropped
+1117,Marketing,16,1,Tier 2,2927,No,Low,Dropped
+1118,Data Science,8,9,Tier 1,2789,Yes,Low,Completed
+1119,Engineering,12,8,Tier 2,1814,No,Low,Completed
+1120,Marketing,8,10,Tier 3,2564,No,High,Completed
+1121,Marketing,16,9,Tier 3,1604,Yes,High,Completed
+1122,Sales,12,7,Tier 3,3424,Yes,High,Completed
+1123,HR,12,3,Tier 2,3413,Yes,Low,Completed
+1124,Data Science,12,3,Tier 2,2716,No,High,Dropped
+1125,Engineering,12,2,Tier 1,2924,Yes,Medium,Completed
+1126,Sales,8,5,Tier 3,4849,Yes,High,Completed
+1127,HR,4,3,Tier 2,3901,Yes,Medium,Dropped
+1128,Sales,12,6,Tier 3,4563,Yes,High,Completed
+1129,HR,12,2,Tier 3,3272,No,Low,Dropped
+1130,HR,16,3,Tier 1,3460,No,High,Extended
+1131,Data Science,16,5,Tier 1,4280,Yes,Medium,Completed
+1132,HR,12,1,Tier 1,3103,No,Medium,Dropped
+1133,Sales,12,1,Tier 1,2208,Yes,High,Dropped
+1134,HR,16,10,Tier 3,4827,Yes,Medium,Completed
+1135,Data Science,12,9,Tier 1,2150,No,Medium,Completed
+1136,Data Science,8,7,Tier 1,4371,No,Low,Completed
+1137,Sales,12,1,Tier 1,2446,Yes,High,Dropped
+1138,Marketing,8,8,Tier 1,2160,Yes,High,Completed
+1139,Marketing,16,3,Tier 3,3646,No,High,Dropped
+1140,HR,12,8,Tier 1,4135,Yes,Medium,Completed
+1141,Engineering,8,5,Tier 3,3829,No,High,Completed
+1142,HR,12,1,Tier 2,3950,Yes,High,Extended
+1143,Sales,12,7,Tier 3,2632,Yes,Low,Completed
+1144,Sales,8,5,Tier 3,2199,No,Low,Completed
+1145,Sales,8,6,Tier 1,3746,No,Low,Completed
+1146,Sales,12,6,Tier 2,4874,No,Medium,Completed
+1147,Sales,12,8,Tier 2,3538,No,High,Completed
+1148,Data Science,12,9,Tier 2,3874,No,Low,Completed
+1149,Marketing,12,2,Tier 2,3701,No,Low,Dropped
+1150,Sales,12,9,Tier 3,2051,No,Low,Completed
+1151,Engineering,12,10,Tier 2,1904,Yes,High,Completed
+1152,Engineering,12,9,Tier 3,1961,Yes,High,Completed
+1153,Engineering,12,10,Tier 3,3679,Yes,High,Completed
+1154,Engineering,12,10,Tier 3,4338,No,Medium,Completed
+1155,Data Science,8,7,Tier 2,2373,No,Medium,Completed
+1156,Engineering,4,1,Tier 1,1583,No,Low,Extended
+1157,Sales,12,7,Tier 1,2922,Yes,High,Completed
+1158,HR,12,10,Tier 2,4301,No,Low,Completed
+1159,Engineering,12,5,Tier 1,4175,No,High,Extended
+1160,Data Science,8,6,Tier 1,4680,Yes,High,Completed
+1161,Data Science,8,10,Tier 3,1720,No,High,Completed
+1162,Engineering,4,7,Tier 3,4100,Yes,Medium,Completed
+1163,HR,8,5,Tier 2,2891,Yes,Medium,Completed
+1164,Engineering,12,7,Tier 2,4718,No,High,Extended
+1165,Data Science,8,9,Tier 1,1611,No,Low,Completed
+1166,Marketing,12,3,Tier 3,2114,No,High,Dropped
+1167,Sales,16,8,Tier 2,3081,Yes,High,Completed
+1168,Data Science,8,2,Tier 2,4471,Yes,Low,Extended
+1169,Engineering,12,7,Tier 2,1974,Yes,High,Completed
+1170,Sales,12,2,Tier 2,4383,No,Low,Extended
+1171,Engineering,8,4,Tier 2,3413,No,Medium,Completed
+1172,Engineering,12,7,Tier 2,1770,No,Medium,Completed
+1173,Marketing,12,3,Tier 1,3968,No,Low,Extended
+1174,Sales,16,2,Tier 3,3420,Yes,Medium,Extended
+1175,Sales,8,10,Tier 3,4254,Yes,Medium,Completed
+1176,Marketing,16,7,Tier 2,2890,Yes,Low,Completed
+1177,Data Science,12,1,Tier 3,4851,Yes,Medium,Dropped
+1178,Engineering,8,8,Tier 3,4854,No,High,Completed
+1179,HR,12,3,Tier 3,1539,No,High,Extended
+1180,Engineering,16,2,Tier 2,3482,No,Low,Extended
+1181,Engineering,12,3,Tier 2,3736,Yes,Medium,Extended
+1182,Data Science,8,5,Tier 3,4735,Yes,High,Extended
+1183,Engineering,12,8,Tier 3,2493,No,High,Completed
+1184,Marketing,8,10,Tier 2,3512,No,Medium,Completed
+1185,Marketing,4,7,Tier 1,4083,Yes,Medium,Completed
+1186,Sales,8,7,Tier 3,4575,No,High,Completed
+1187,HR,8,7,Tier 1,1789,Yes,High,Completed
+1188,Engineering,8,8,Tier 3,3980,Yes,Low,Completed
+1189,Engineering,8,1,Tier 1,4018,Yes,Low,Extended
+1190,Data Science,12,4,Tier 1,4752,No,High,Completed
+1191,Marketing,8,6,Tier 1,4819,No,Low,Completed
+1192,HR,8,9,Tier 2,4175,Yes,High,Completed
+1193,Sales,12,2,Tier 1,1778,No,High,Dropped
+1194,Marketing,12,1,Tier 1,4424,Yes,Low,Extended
+1195,Sales,12,10,Tier 1,2080,Yes,Low,Completed
+1196,Data Science,8,2,Tier 3,2362,Yes,Medium,Extended
+1197,Data Science,8,7,Tier 1,1753,Yes,Medium,Completed
+1198,Engineering,4,3,Tier 3,1680,No,Medium,Dropped
+1199,HR,8,10,Tier 1,2180,Yes,High,Completed
+1200,Sales,8,2,Tier 1,2324,Yes,Low,Extended
+1201,Marketing,8,7,Tier 2,2199,No,High,Extended
+1202,Data Science,4,2,Tier 3,4113,Yes,Low,Dropped
+1203,Engineering,8,3,Tier 1,2849,Yes,High,Extended
+1204,Engineering,12,7,Tier 3,2880,No,Medium,Completed
+1205,Sales,8,4,Tier 3,3173,No,Medium,Extended
+1206,Data Science,8,1,Tier 2,4227,No,Medium,Dropped
+1207,HR,12,5,Tier 2,3938,Yes,High,Completed
+1208,Data Science,12,9,Tier 2,3138,No,Low,Completed
+1209,Sales,4,8,Tier 2,3457,No,Low,Completed
+1210,Sales,12,9,Tier 2,4656,Yes,Medium,Completed
+1211,Data Science,12,10,Tier 2,4888,Yes,Medium,Completed
+1212,Sales,4,9,Tier 2,1711,Yes,Medium,Completed
+1213,Data Science,12,7,Tier 2,3038,Yes,Medium,Completed
+1214,Marketing,16,4,Tier 1,1883,Yes,Low,Completed
+1215,Data Science,4,5,Tier 3,3214,No,High,Extended
+1216,Data Science,8,1,Tier 2,1841,No,High,Dropped
+1217,Sales,12,1,Tier 2,3338,No,High,Dropped
+1218,Sales,12,3,Tier 3,3487,Yes,High,Completed
+1219,Engineering,8,8,Tier 1,2343,Yes,Medium,Completed
+1220,Engineering,8,2,Tier 3,4609,Yes,Medium,Extended
+1221,Marketing,8,4,Tier 3,3034,No,Medium,Completed
+1222,Engineering,12,2,Tier 2,1919,No,High,Dropped
+1223,Data Science,12,5,Tier 3,4298,Yes,Medium,Extended
+1224,Sales,8,9,Tier 3,4740,No,Medium,Completed
+1225,Engineering,12,1,Tier 2,3488,Yes,Low,Extended
+1226,Engineering,12,5,Tier 2,3432,No,Low,Completed
+1227,Marketing,4,9,Tier 2,4914,No,Medium,Completed
+1228,Marketing,8,1,Tier 2,3349,No,Low,Dropped
+1229,Data Science,12,9,Tier 3,1805,Yes,Low,Completed
+1230,Sales,12,8,Tier 3,4249,No,Medium,Completed
+1231,Marketing,12,4,Tier 1,2368,No,Medium,Completed
+1232,Engineering,12,10,Tier 1,4084,Yes,Medium,Completed
+1233,Sales,8,5,Tier 3,2635,No,Medium,Extended
+1234,Sales,12,5,Tier 1,2934,Yes,High,Completed
+1235,Engineering,12,6,Tier 3,1705,Yes,High,Completed
+1236,Marketing,8,7,Tier 1,4756,Yes,Medium,Completed
+1237,Engineering,8,8,Tier 2,4953,Yes,Low,Completed
+1238,Sales,8,8,Tier 1,1995,Yes,Medium,Completed
+1239,HR,4,2,Tier 2,4950,No,Medium,Extended
+1240,HR,8,9,Tier 2,4618,Yes,Low,Completed
+1241,Data Science,8,7,Tier 2,3409,Yes,High,Completed
+1242,Engineering,8,4,Tier 2,4051,Yes,Medium,Extended
+1243,Engineering,8,4,Tier 1,2545,Yes,Medium,Completed
+1244,Data Science,12,8,Tier 3,1712,No,High,Completed
+1245,Data Science,12,4,Tier 2,1809,Yes,High,Extended
+1246,Data Science,12,6,Tier 1,4208,No,Low,Completed
+1247,Sales,12,5,Tier 2,3491,Yes,High,Completed
+1248,Engineering,12,3,Tier 1,4300,No,High,Extended
+1249,Sales,4,10,Tier 1,1771,Yes,High,Completed
+1250,Data Science,12,2,Tier 1,3322,Yes,Low,Completed
+1251,Engineering,12,9,Tier 3,4485,No,High,Completed
+1252,Sales,12,10,Tier 1,4773,Yes,High,Completed
+1253,Sales,12,9,Tier 1,3579,No,Low,Completed
+1254,Data Science,8,1,Tier 3,1942,Yes,High,Extended
+1255,Engineering,8,10,Tier 3,3709,No,High,Completed
+1256,Data Science,8,3,Tier 1,4314,Yes,Low,Completed
+1257,Engineering,12,8,Tier 3,1753,Yes,Medium,Completed
+1258,HR,12,6,Tier 2,2020,No,Low,Completed
+1259,Marketing,8,5,Tier 2,2476,Yes,High,Completed
+1260,Marketing,16,5,Tier 3,1509,Yes,High,Completed
+1261,Marketing,12,6,Tier 3,4273,Yes,High,Completed
+1262,Data Science,8,7,Tier 1,4052,Yes,Low,Completed
+1263,HR,8,1,Tier 3,4332,Yes,High,Extended
+1264,Engineering,8,9,Tier 1,3083,Yes,High,Completed
+1265,Sales,8,3,Tier 2,3983,No,Low,Extended
+1266,Engineering,8,4,Tier 3,2634,No,Medium,Extended
+1267,Sales,8,10,Tier 1,1652,No,Medium,Completed
+1268,Engineering,8,1,Tier 1,3158,Yes,High,Dropped
+1269,HR,8,10,Tier 2,4464,No,Low,Completed
+1270,Sales,12,3,Tier 3,4416,Yes,High,Extended
+1271,Data Science,4,2,Tier 2,4673,Yes,Low,Extended
+1272,Engineering,12,2,Tier 1,4300,Yes,Low,Dropped
+1273,Engineering,12,1,Tier 1,3356,Yes,Medium,Extended
+1274,Sales,16,8,Tier 3,2714,No,Medium,Completed
+1275,Data Science,8,3,Tier 1,3252,Yes,Low,Extended
+1276,Data Science,8,3,Tier 3,4110,No,High,Extended
+1277,HR,16,6,Tier 2,2604,Yes,Medium,Completed
+1278,Data Science,12,8,Tier 3,4036,No,High,Completed
+1279,Data Science,12,9,Tier 3,2394,No,Medium,Completed
+1280,Data Science,8,9,Tier 1,2611,No,Medium,Completed
+1281,Marketing,8,4,Tier 1,4765,No,High,Extended
+1282,HR,12,5,Tier 3,1603,No,Medium,Extended
+1283,Engineering,16,2,Tier 1,4667,No,Medium,Dropped
+1284,Sales,12,9,Tier 1,4994,Yes,High,Completed
+1285,Engineering,12,8,Tier 1,3414,No,Medium,Completed
+1286,HR,8,3,Tier 3,4769,Yes,Medium,Completed
+1287,Sales,12,9,Tier 1,4572,No,Medium,Completed
+1288,HR,8,3,Tier 3,2506,Yes,High,Dropped
+1289,Data Science,8,9,Tier 1,1906,No,Low,Completed
+1290,Sales,12,2,Tier 2,2901,No,High,Dropped
+1291,Data Science,12,10,Tier 1,1666,Yes,Low,Completed
+1292,Engineering,8,9,Tier 1,2008,No,Medium,Completed
+1293,Engineering,8,8,Tier 3,3161,No,Low,Completed
+1294,Sales,12,9,Tier 3,3860,No,High,Completed
+1295,Sales,8,5,Tier 1,4989,Yes,High,Completed
+1296,HR,12,2,Tier 2,2262,No,Medium,Extended
+1297,HR,8,8,Tier 1,2180,Yes,Low,Completed
+1298,Data Science,12,6,Tier 1,4024,No,Medium,Completed
+1299,Sales,12,8,Tier 2,3620,No,Medium,Completed
+1300,Engineering,4,5,Tier 3,2664,Yes,High,Extended
+1301,HR,8,10,Tier 1,2081,No,Low,Completed
+1302,HR,8,2,Tier 3,1761,No,Low,Dropped
+1303,Engineering,4,6,Tier 3,2863,Yes,Low,Completed
+1304,HR,16,5,Tier 2,2831,No,Low,Completed
+1305,Data Science,8,5,Tier 2,3792,Yes,Medium,Completed
+1306,Sales,12,1,Tier 3,3038,Yes,Medium,Dropped
+1307,Engineering,8,2,Tier 1,4908,Yes,High,Completed
+1308,Sales,12,8,Tier 3,2060,No,Medium,Completed
+1309,HR,12,3,Tier 1,2599,Yes,Medium,Extended
+1310,HR,12,10,Tier 1,3403,Yes,High,Completed
+1311,Engineering,12,3,Tier 2,1674,No,High,Dropped
+1312,Data Science,12,8,Tier 1,3656,Yes,High,Completed
+1313,Marketing,8,8,Tier 1,3730,No,Medium,Completed
+1314,Engineering,16,2,Tier 3,1691,No,Medium,Extended
+1315,Marketing,12,8,Tier 2,1564,No,High,Completed
+1316,Marketing,16,1,Tier 1,4510,No,High,Dropped
+1317,Data Science,8,6,Tier 1,2997,Yes,High,Completed
+1318,Marketing,12,8,Tier 2,4671,Yes,Medium,Completed
+1319,Marketing,16,3,Tier 3,3067,Yes,Medium,Extended
+1320,Data Science,8,8,Tier 2,4411,Yes,Low,Completed
+1321,Marketing,4,1,Tier 2,2651,Yes,Medium,Dropped
+1322,Marketing,12,9,Tier 1,3437,No,Medium,Completed
+1323,Marketing,12,9,Tier 1,1868,Yes,Medium,Completed
+1324,Engineering,12,5,Tier 3,2350,Yes,High,Completed
+1325,Engineering,8,10,Tier 1,1542,Yes,Medium,Completed
+1326,Engineering,12,4,Tier 1,3407,No,High,Completed
+1327,Data Science,8,6,Tier 2,4990,No,Low,Completed
+1328,HR,8,7,Tier 1,4035,Yes,Low,Completed
+1329,Marketing,8,5,Tier 3,1577,No,High,Extended
+1330,Marketing,12,10,Tier 2,4373,Yes,High,Completed
+1331,Data Science,12,9,Tier 3,3324,Yes,High,Completed
+1332,Marketing,12,3,Tier 2,2793,No,Medium,Extended
+1333,Engineering,8,7,Tier 1,2173,No,Low,Completed
+1334,HR,12,10,Tier 2,2200,Yes,High,Completed
+1335,Sales,8,10,Tier 2,2258,Yes,Medium,Completed
+1336,Marketing,12,5,Tier 1,3423,No,Low,Completed
+1337,Engineering,12,7,Tier 1,4275,Yes,Medium,Completed
+1338,Sales,8,2,Tier 3,4886,No,Low,Extended
+1339,HR,12,4,Tier 3,4472,Yes,Medium,Extended
+1340,Sales,8,2,Tier 1,2401,No,Low,Extended
+1341,Engineering,12,7,Tier 1,4436,Yes,Low,Completed
+1342,Sales,12,2,Tier 1,2492,Yes,Medium,Completed
+1343,Data Science,8,1,Tier 2,2691,No,High,Dropped
+1344,Sales,12,9,Tier 2,3886,Yes,Low,Completed
+1345,Marketing,8,1,Tier 2,3740,Yes,High,Dropped
+1346,Marketing,12,8,Tier 1,2976,No,Medium,Completed
+1347,Data Science,16,2,Tier 3,3830,Yes,High,Dropped
+1348,Engineering,12,8,Tier 1,4907,Yes,High,Completed
+1349,Marketing,8,3,Tier 2,1889,Yes,High,Completed
+1350,HR,16,6,Tier 2,2499,No,High,Extended
+1351,Marketing,12,3,Tier 1,2024,No,High,Extended
+1352,Marketing,8,7,Tier 1,4811,No,Low,Completed
+1353,Engineering,8,10,Tier 2,3355,Yes,Low,Completed
+1354,Sales,12,9,Tier 2,3006,Yes,Low,Completed
+1355,Marketing,12,2,Tier 2,2158,Yes,Medium,Dropped
+1356,Data Science,12,5,Tier 1,4263,Yes,High,Completed
+1357,Sales,12,6,Tier 2,2390,No,Low,Completed
+1358,HR,12,4,Tier 2,2981,Yes,Medium,Extended
+1359,Engineering,8,4,Tier 3,4660,Yes,Low,Extended
+1360,HR,8,4,Tier 1,4666,Yes,Low,Completed
+1361,Sales,8,2,Tier 3,1951,No,High,Dropped
+1362,Sales,12,4,Tier 3,3975,Yes,Medium,Completed
+1363,Sales,4,1,Tier 2,4722,Yes,High,Dropped
+1364,HR,12,6,Tier 1,3037,Yes,High,Completed
+1365,Sales,12,1,Tier 2,4947,Yes,Low,Dropped
+1366,HR,12,10,Tier 1,4593,Yes,High,Completed
+1367,Sales,8,6,Tier 3,2382,No,Medium,Completed
+1368,Data Science,12,1,Tier 1,1812,Yes,High,Extended
+1369,Sales,8,6,Tier 2,2339,Yes,High,Completed
+1370,HR,12,10,Tier 2,4066,Yes,High,Completed
+1371,Marketing,8,8,Tier 2,4777,Yes,Low,Completed
+1372,Sales,8,2,Tier 1,1874,Yes,Medium,Completed
+1373,Marketing,12,2,Tier 3,1950,Yes,Low,Extended
+1374,Data Science,8,4,Tier 3,4562,Yes,Low,Completed
+1375,Engineering,8,3,Tier 1,2094,Yes,Low,Extended
+1376,Data Science,12,4,Tier 2,4750,Yes,Low,Extended
+1377,Sales,12,7,Tier 3,2733,Yes,Low,Completed
+1378,Marketing,12,1,Tier 2,1999,No,Medium,Dropped
+1379,Marketing,12,6,Tier 1,1963,No,High,Completed
+1380,HR,12,3,Tier 2,4695,No,Low,Extended
+1381,Marketing,8,10,Tier 3,1612,No,Low,Completed
+1382,HR,8,7,Tier 3,2535,Yes,Medium,Completed
+1383,Engineering,8,10,Tier 2,4697,No,Medium,Completed
+1384,Sales,16,2,Tier 1,3878,No,High,Dropped
+1385,HR,12,2,Tier 2,3424,Yes,Medium,Dropped
+1386,Engineering,12,4,Tier 1,4854,No,High,Extended
+1387,Marketing,12,1,Tier 2,1639,No,Low,Extended
+1388,Marketing,16,3,Tier 3,2924,Yes,Low,Extended
+1389,Engineering,8,9,Tier 1,4449,Yes,High,Completed
+1390,Marketing,12,7,Tier 1,4668,Yes,Medium,Completed
+1391,Engineering,12,7,Tier 1,2016,No,High,Completed
+1392,HR,12,4,Tier 3,4116,No,Medium,Extended
+1393,HR,4,2,Tier 2,3447,Yes,Low,Extended
+1394,Engineering,12,4,Tier 3,4393,Yes,Medium,Extended
+1395,HR,16,6,Tier 1,4640,No,High,Completed
+1396,HR,12,3,Tier 2,3665,Yes,High,Completed
+1397,HR,12,1,Tier 3,2387,No,Low,Dropped
+1398,Data Science,16,8,Tier 1,4630,Yes,Medium,Completed
+1399,Sales,12,5,Tier 1,4604,Yes,Medium,Completed
+1400,Marketing,8,5,Tier 3,2841,No,Medium,Completed
+1401,Data Science,12,4,Tier 3,1549,Yes,Low,Completed
+1402,HR,12,6,Tier 3,1518,Yes,Medium,Completed
+1403,Engineering,12,3,Tier 1,2225,Yes,High,Completed
+1404,HR,12,9,Tier 3,3744,No,Medium,Completed
+1405,Sales,16,5,Tier 1,2973,Yes,Low,Completed
+1406,HR,16,3,Tier 3,4106,Yes,Medium,Extended
+1407,Engineering,12,1,Tier 1,1951,Yes,Medium,Extended
+1408,Sales,8,10,Tier 1,3836,Yes,High,Completed
+1409,HR,16,6,Tier 2,2664,Yes,Medium,Completed
+1410,Sales,12,2,Tier 3,2607,Yes,High,Dropped
+1411,Marketing,8,3,Tier 3,3938,No,High,Extended
+1412,Marketing,16,1,Tier 1,1714,No,Low,Extended
+1413,HR,12,9,Tier 1,3049,Yes,High,Completed
+1414,Sales,12,8,Tier 1,3762,No,High,Completed
+1415,Engineering,12,2,Tier 2,4974,No,Low,Dropped
+1416,HR,8,8,Tier 2,1627,Yes,High,Completed
+1417,Marketing,4,9,Tier 1,3345,No,Low,Completed
+1418,Marketing,8,1,Tier 3,2259,No,Medium,Extended
+1419,HR,12,5,Tier 3,3951,No,Low,Extended
+1420,Sales,4,8,Tier 2,4600,No,High,Completed
+1421,Marketing,8,2,Tier 2,3315,No,Low,Dropped
+1422,Sales,8,4,Tier 1,3885,No,High,Extended
+1423,Marketing,12,7,Tier 3,4378,No,Medium,Completed
+1424,Marketing,16,3,Tier 1,4261,No,Low,Extended
+1425,Data Science,8,5,Tier 2,1860,Yes,Medium,Completed
+1426,Marketing,8,8,Tier 3,2068,Yes,High,Completed
+1427,Engineering,12,10,Tier 3,2915,No,High,Completed
+1428,HR,12,3,Tier 2,3765,No,Medium,Extended
+1429,HR,8,4,Tier 1,3097,Yes,Low,Completed
+1430,Sales,12,9,Tier 1,3192,No,Low,Completed
+1431,Marketing,8,7,Tier 3,1701,No,High,Extended
+1432,Engineering,8,1,Tier 2,3564,Yes,Medium,Extended
+1433,Sales,12,4,Tier 3,3869,Yes,Medium,Extended
+1434,Data Science,12,4,Tier 2,2017,Yes,Low,Extended
+1435,Sales,16,9,Tier 1,2848,No,Low,Completed
+1436,Sales,8,6,Tier 2,2935,No,Low,Completed
+1437,Marketing,12,9,Tier 1,2841,Yes,Medium,Completed
+1438,Data Science,12,6,Tier 2,2180,Yes,Low,Completed
+1439,Sales,4,6,Tier 3,3488,No,Low,Completed
+1440,Engineering,12,5,Tier 1,4653,Yes,High,Completed
+1441,Engineering,8,5,Tier 3,2991,No,Low,Completed
+1442,HR,16,2,Tier 3,1924,No,Low,Extended
+1443,Data Science,8,8,Tier 1,3468,Yes,Medium,Completed
+1444,Data Science,12,8,Tier 1,3212,Yes,Medium,Completed
+1445,HR,4,1,Tier 3,4775,No,High,Dropped
+1446,Sales,16,8,Tier 3,4566,Yes,Low,Completed
+1447,Data Science,12,5,Tier 3,3934,Yes,High,Extended
+1448,Engineering,12,2,Tier 3,2277,Yes,Medium,Extended
+1449,Engineering,4,2,Tier 1,3645,Yes,High,Extended
+1450,Marketing,12,6,Tier 1,4916,No,Medium,Completed
+1451,Data Science,8,9,Tier 3,3326,No,High,Completed
+1452,Sales,12,1,Tier 2,1707,No,High,Dropped
+1453,HR,8,6,Tier 2,3037,No,Low,Completed
+1454,HR,8,9,Tier 1,3159,Yes,High,Completed
+1455,Sales,4,8,Tier 3,4133,Yes,Low,Completed
+1456,Marketing,12,6,Tier 3,3713,No,Low,Extended
+1457,HR,12,3,Tier 1,1521,No,Low,Extended
+1458,Data Science,4,8,Tier 2,1653,Yes,Low,Completed
+1459,Marketing,12,9,Tier 2,3462,No,High,Completed
+1460,Data Science,12,1,Tier 2,4866,No,Medium,Dropped
+1461,Engineering,12,9,Tier 1,1718,Yes,Medium,Completed
+1462,Marketing,12,6,Tier 2,2168,No,Medium,Completed
+1463,HR,12,6,Tier 1,3018,Yes,High,Completed
+1464,Marketing,12,4,Tier 1,3777,Yes,Low,Completed
+1465,Marketing,8,1,Tier 3,3567,No,Medium,Extended
+1466,Marketing,8,10,Tier 2,4100,Yes,High,Completed
+1467,Marketing,12,8,Tier 1,2449,No,Low,Completed
+1468,Data Science,16,2,Tier 2,3695,Yes,Medium,Extended
+1469,Engineering,8,1,Tier 2,4679,No,Low,Dropped
+1470,Sales,8,2,Tier 3,1902,No,Medium,Extended
+1471,Marketing,12,1,Tier 2,2095,No,Medium,Dropped
+1472,HR,12,1,Tier 3,3914,Yes,Medium,Dropped
+1473,Marketing,4,9,Tier 1,2937,Yes,Low,Completed
+1474,HR,8,1,Tier 2,4880,No,High,Dropped
+1475,Data Science,12,4,Tier 1,4349,Yes,Low,Completed
+1476,HR,12,10,Tier 2,4465,No,Medium,Completed
+1477,Sales,4,6,Tier 1,2657,No,Low,Completed
+1478,Engineering,8,7,Tier 2,3242,Yes,High,Completed
+1479,HR,8,2,Tier 2,2806,No,Low,Dropped
+1480,HR,12,6,Tier 2,1572,Yes,High,Completed
+1481,Engineering,4,7,Tier 2,1980,No,High,Completed
+1482,Sales,8,10,Tier 2,4923,Yes,Low,Completed
+1483,Marketing,12,10,Tier 2,2059,No,Medium,Completed
+1484,HR,8,2,Tier 2,4897,No,High,Dropped
+1485,Engineering,12,2,Tier 2,2244,Yes,Low,Dropped
+1486,Data Science,8,10,Tier 2,2966,No,High,Completed
+1487,Engineering,4,7,Tier 1,1599,No,Medium,Completed
+1488,Data Science,8,1,Tier 3,2582,Yes,Low,Dropped
+1489,Sales,12,8,Tier 2,4055,No,Low,Completed
+1490,Marketing,12,3,Tier 3,3805,Yes,Low,Extended
+1491,Engineering,12,6,Tier 2,1912,No,Medium,Completed
+1492,HR,8,9,Tier 2,2588,Yes,High,Completed
+1493,Sales,12,6,Tier 1,4142,No,Low,Completed
+1494,Engineering,8,9,Tier 1,2677,No,High,Completed
+1495,HR,8,7,Tier 3,3508,No,High,Completed
+1496,Engineering,12,9,Tier 1,3813,Yes,Medium,Completed
+1497,Data Science,4,2,Tier 1,2320,Yes,Low,Completed
+1498,Engineering,4,8,Tier 3,4650,Yes,High,Completed
+1499,Engineering,8,8,Tier 1,4886,Yes,Low,Completed
+1500,Engineering,4,2,Tier 2,2161,No,Low,Extended
